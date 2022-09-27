@@ -17,7 +17,7 @@ The working of line follower robot depends on principle of **black bodies** whic
 
 * Supplying power to circuit  
 
-* Testing it on black path
+* Testing it on black striped path
 
 **Problems faced**
 Initially alignment of robot is not accurate,then input parameters are changed by trial and error.
